@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Langchain_using_gemini_API.png" alt="🦜🔗 LangChain using Gemini API" width="800">
+</p>
+
 # langchain-rag-tutorial
 
 # LangChain + Google Gemini Learning Journey
